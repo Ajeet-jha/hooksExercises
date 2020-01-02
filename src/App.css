@@ -1,0 +1,25 @@
+body{
+    background: #80808075;
+}
+.App{
+    text-align: center;
+    margin-top: 100px;
+}
+.clickBtn{
+    margin: 10px;
+    padding: 10px 26px;
+    border-radius: 5px;
+    outline: none;
+    border: 0;
+    cursor: pointer;
+    color: white;
+}
+.countBlock{
+    font-size: 25px;
+    border: 1px dotted gray;
+    padding: 6px;
+}
+.erroeDiv{
+    color: red;
+    font-family: cursive;
+}
